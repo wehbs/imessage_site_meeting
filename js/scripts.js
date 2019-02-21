@@ -40,7 +40,7 @@ window.onload = function() {
     "Liz Pollack",
     '<img class="memoji" src="img/memoji_3.png" alt="memoji">',
     "Christian Pinks",
-    "The meeting will begin in a just a moment. We hope you enjoy.",
+    "The meeting will begin in just a moment. We hope you enjoy.",
     ,
     getCurrentTime()
   ];
