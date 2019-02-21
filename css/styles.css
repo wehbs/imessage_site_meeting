@@ -116,9 +116,9 @@ body {
 }
 
 /* white background for the animoji */
-body>div>div:nth-child(23),
-body>div>div:nth-child(27),
-body>div>div:nth-child(31) {
+body>div>div:nth-child(25),
+body>div>div:nth-child(29),
+body>div>div:nth-child(33) {
   background: #ffffff !important;
 }
 

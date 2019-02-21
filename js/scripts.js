@@ -6,7 +6,7 @@
 
 window.onload = function() {
   var messagesEl = document.querySelector(".messages");
-  var typingSpeed = 20;
+  var typingSpeed = 50;
   var loadingText = "<b>•</b><b>•</b><b>•</b>";
   var messageIndex = 0;
 
@@ -31,6 +31,7 @@ window.onload = function() {
     "Thank you for choosing to use the power of your knowledge to help others",
     "Most importantly, thank you for understanding that we are human and for stopping at nothing to create a human connection",
     "You were my hero that day, thank you so so so much for everything you do",
+    "And, with that being said:",
     "Welcome to  The Galleria Genius Bar Q2 meeting",
     "Todays meeting was put together by a few of your peers",
     '<img class="memoji" src="img/memoji_1.png" alt="memoji">',
